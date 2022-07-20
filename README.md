@@ -7,4 +7,11 @@ All the procedures and calculations run automatically without any request of met
 # Data Analysis applied with Pandas
 All the calculations were applied using Pandas methods.
 
-All the outputs of the different calculations are placed as CSV files in an Output folder that is created by the same Transaction_Profile code.  The name of the folder created is a combination of the date when the script was run and the name of the raw data csv that was given to it.
+All the outputs of the different calculations are placed as CSV files in an Output folder that is created by the same Transaction_Profile code.  The name of the folder created is a combination of the date when the script was run and the name of the raw data csv that was given to it
+
+# Quick Settings
+
+Before running the code:
+
+1. Check that you have installed the Pandas package in your computer.
+2. Change the CSV_ADDRESS and the OUTPUT_ADDRESS to the ones you are going to use in your local computer.
